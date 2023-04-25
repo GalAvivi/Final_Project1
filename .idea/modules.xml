@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Final_Project.iml" filepath="$PROJECT_DIR$/.idea/Final_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../selenium1/.idea/selenium1.iml" filepath="$PROJECT_DIR$/../../selenium1/.idea/selenium1.iml" />
     </modules>
   </component>
 </project>
